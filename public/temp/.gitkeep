@@ -1,0 +1,2 @@
+// we cannot push empty folders inside github so we need to create some files inside the folder so that git will keep a track of the folders as well and push it when necessary.
+the file name could be anything not necessarily .gitkeep(it is just a standard procedure to keep this name of such a file)
